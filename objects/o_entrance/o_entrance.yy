@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "s_solid",
-    "path": "sprites/s_solid/s_solid.yy",
+    "name": "s_door",
+    "path": "sprites/s_door/s_door.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Level.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_solid",
+  "name": "o_entrance",
   "tags": [],
   "resourceType": "GMObject",
 }

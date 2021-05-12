@@ -1,10 +1,7 @@
 {
-  "spriteId": {
-    "name": "s_solid",
-    "path": "sprites/s_solid/s_solid.yy",
-  },
+  "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Level",
-    "path": "folders/Objects/Level.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_solid",
+  "name": "o_boss",
   "tags": [],
   "resourceType": "GMObject",
 }
