@@ -12,7 +12,7 @@ if (room == r_title) {
 
 if (room != r_title) {
 	//Draw Health
-	for (var i = 1; i <= hp; ++i) {
+	for (var i = 1; i <= global.hp; ++i) {
 		draw_sprite_ext(s_heart, 0, (i * 25) - 10, 15, 1, 1, 0, c_white, 1);	
 	}
 	//Draw score
