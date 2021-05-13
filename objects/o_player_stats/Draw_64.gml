@@ -18,5 +18,5 @@ if (room != r_title) {
 	//Draw score
 	draw_set_font(f_score);
 	draw_set_halign(fa_left);
-	draw_text(5, 25, "Score: " + string(sapphires));
+	draw_text(5, 25, "Score: " + string(global.sapphires));
 }

@@ -96,6 +96,7 @@ switch(state) {
 #endregion
 #region Door State
 	case player.door:
+		sprite_index = s_player_exit;
 		//Fade out
 		if (image_alpha > 0) {
 			image_alpha -= .10;	
