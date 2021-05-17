@@ -29,6 +29,7 @@
     {"id":{"name":"r_boss","path":"rooms/r_boss/r_boss.yy",},"order":3,},
     {"id":{"name":"s_player_idle","path":"sprites/s_player_idle/s_player_idle.yy",},"order":2,},
     {"id":{"name":"a_ouch","path":"sounds/a_ouch/a_ouch.yy",},"order":5,},
+    {"id":{"name":"s_snake","path":"sprites/s_snake/s_snake.yy",},"order":0,},
     {"id":{"name":"o_particle","path":"objects/o_particle/o_particle.yy",},"order":4,},
     {"id":{"name":"a_cave","path":"sounds/a_cave/a_cave.yy",},"order":3,},
     {"id":{"name":"o_sapphire","path":"objects/o_sapphire/o_sapphire.yy",},"order":3,},
@@ -40,6 +41,7 @@
     {"id":{"name":"o_entrance","path":"objects/o_entrance/o_entrance.yy",},"order":2,},
     {"id":{"name":"apply_friction","path":"scripts/apply_friction/apply_friction.yy",},"order":0,},
     {"id":{"name":"s_player_walk","path":"sprites/s_player_walk/s_player_walk.yy",},"order":5,},
+    {"id":{"name":"o_snake","path":"objects/o_snake/o_snake.yy",},"order":1,},
     {"id":{"name":"a_jump","path":"sounds/a_jump/a_jump.yy",},"order":0,},
     {"id":{"name":"r_one","path":"rooms/r_one/r_one.yy",},"order":1,},
   ],
@@ -83,6 +85,7 @@
     {"folderPath":"folders/Objects/Player.yy","order":3,"resourceVersion":"1.0","name":"Player","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Level.yy","order":4,"resourceVersion":"1.0","name":"Level","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemies.yy","order":5,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Enemies.yy","order":12,"resourceVersion":"1.0","name":"Enemies","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
