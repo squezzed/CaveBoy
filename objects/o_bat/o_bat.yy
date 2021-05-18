@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_snake",
-    "path": "sprites/s_snake/s_snake.yy",
+    "name": "s_bat_idle",
+    "path": "sprites/s_bat_idle/s_bat_idle.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,9 +24,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_snake","path":"objects/o_snake/o_snake.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_snake","path":"objects/o_snake/o_snake.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"o_snake","path":"objects/o_snake/o_snake.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_bat","path":"objects/o_bat/o_bat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_bat","path":"objects/o_bat/o_bat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"o_bat","path":"objects/o_bat/o_bat.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -35,7 +35,7 @@
     "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_snake",
+  "name": "o_bat",
   "tags": [],
   "resourceType": "GMObject",
 }
